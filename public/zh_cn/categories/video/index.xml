@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on McKinley Park 发展理事会</title>
+    <link>http://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/video/</link>
+    <description>Recent content in Video on McKinley Park 发展理事会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>为什么我们需要一个计划</title>
+      <link>http://mckinleyparkdevelopmentcouncil.org/zh_cn/news/why-we-need-a-plan/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mckinleyparkdevelopmentcouncil.org/zh_cn/news/why-we-need-a-plan/</guid>
+      <description>在这个视频中，我们解释了为什么我们认为麦金利公园需要一个计划。视频帮助我们赢得了一笔赠款 Chicago Community Trust.   </description>
+    </item>
+    
+  </channel>
+</rss>

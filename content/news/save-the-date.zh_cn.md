@@ -1,0 +1,42 @@
++++
+author = ""
+categories = ["Events"]
+date = "2017-10-16"
+description = "保存日期"
+featured = "pic02.jpg"
+featuredalt = "Pic 2"
+featuredpath = ""
+linktitle = ""
+title = "保存日期"
+type = "post"
+
++++
+
+麦金利公园发展委员会（MPDC）向麦金利公园发展委员会（MPDC）提出空置，拆除和重新分区申请，指向麦肯利公园的新发展，邀请您和您的邻居参加我们的就职讲习班 - “公民分区指南”：了解您社区的发展情况。 
+
+加入 MPDC 和你的邻居学习和提出关于分区的问题;怎么运行的;这对我们的邻里是什么意思，所以我们可以一起前进，更多的知识！
+ 
+但首先，MPDC希望听到你的声音！请花几分钟时间完成一项快速调查：[麦金利公园社区利益调查]（https://www.surveymonkey.com/r/N9FQVPN）。您的一天不会超过5分钟，我们非常感谢您的反馈。 
+ 
+同时，保存日期，并计划加入MPDC，提供丰富的夜晚
+主题：公民分区指南：
+                        了解您社区的发展情况
+
+Location:         Bethany Baptist Church
+                        [3532 S. Hoyne Ave](https://goo.gl/maps/8zXUmT1wRgE2).
+ 
+Date:                Monday, October 16, 2017
+Time:               6:30pm to 8:00pm
+ 
+[McKinley Park Guide to Zoning](https://drive.google.com/file/d/0B0znleYpwmY2Y09mTks2RHRfNFk/view?usp=sharing) 在我们附近提供基本的分区条款和分区的描述.
+
+
+不久之后再寻找更多的细节，请帮忙传播一下！
+
+翻译机器，请原谅翻译。
+
+
+
+
+
+在我们附近提供基本的分区条款和分区的描述
