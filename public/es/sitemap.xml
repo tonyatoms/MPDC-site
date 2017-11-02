@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mckinleyparkdevelopmentcouncil.org/es/news/zoning_wkshop_vid/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://mckinleyparkdevelopmentcouncil.org/news/zoning_wkshop_vid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="http://mckinleyparkdevelopmentcouncil.org/zh_cn/news/zoning_wkshop_vid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://mckinleyparkdevelopmentcouncil.org/es/news/zoning_wkshop_vid/"
+                />
+  </url>
+  
+  <url>
     <loc>http://mckinleyparkdevelopmentcouncil.org/es/news/save-the-date/</loc>
     <lastmod>2017-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -84,7 +104,7 @@
   
   <url>
     <loc>http://mckinleyparkdevelopmentcouncil.org/es/</loc>
-    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -145,7 +165,7 @@
   
   <url>
     <loc>http://mckinleyparkdevelopmentcouncil.org/es/news/</loc>
-    <lastmod>2017-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -186,7 +206,7 @@
   
   <url>
     <loc>http://mckinleyparkdevelopmentcouncil.org/es/categories/video/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

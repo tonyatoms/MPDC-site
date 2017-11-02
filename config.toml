@@ -11,7 +11,7 @@ pluralizeListTitles = false
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Website of the McKinley Park Development Council"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "MPDC"
   # Sets where "View More Posts" links
@@ -110,11 +110,11 @@ DefaultContentLanguage = "en"
                 identifier = "fa fa-newspaper-o"
                 weight = 3
 
-         #   [[Languages.en.menu.main]]
-          #      name = "Events"
-          #      url = "/Events/"
-          #      identifier = "fa fa-id-card-o"
-          #      weight = 4
+            [[Languages.en.menu.main]]
+                name = "Social Feed"
+                url = "/social/"
+                identifier = "fa fa-id-card-o"
+                weight = 4
 
             [[Languages.en.menu.main]]
                 name = "Categories"

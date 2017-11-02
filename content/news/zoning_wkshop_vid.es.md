@@ -2,7 +2,7 @@
 +++
 author = "Tony"
 categories = ["Video"]
-date = "2017-10-28"
+date = "2017-11-01"
 description = "Guía de Ciudadanos para el Taller de Zonificación Video"
 featured = ""
 featuredalt = ""
