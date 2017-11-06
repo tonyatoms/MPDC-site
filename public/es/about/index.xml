@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>El McKinley Park Development Council (MPDC)  on Consejo de Desarrollo de McKinley Park</title>
-    <link>http://mckinleyparkdevelopmentcouncil.org/es/about/</link>
+    <link>https://mckinleyparkdevelopmentcouncil.org/es/about/</link>
     <description>Recent content in El McKinley Park Development Council (MPDC)  on Consejo de Desarrollo de McKinley Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mckinleyparkdevelopmentcouncil.org/es/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mckinleyparkdevelopmentcouncil.org/es/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

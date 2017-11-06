@@ -1,4 +1,4 @@
-baseurl = "http://mckinleyparkdevelopmentcouncil.org/"
+baseurl = "https://mckinleyparkdevelopmentcouncil.org/"
 languageCode = "en-us"
 title = "McKinley Park Development Council"
 theme = "hugo-future-imperfect"
