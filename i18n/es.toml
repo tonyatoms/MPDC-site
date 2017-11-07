@@ -3,19 +3,19 @@
 [postreadingtime]
   other = "minutes read"
 [recent_posts]
-  other = "Recent posts"
+  other = "Noticias Recientes"
 [see_more]
   other = "See more"
 [read_more]
   other = "Read more"
 [categories]
-  other = "Categories"
+  other = "Categorías"
 [category]
   other = "Category"
 [uncategorized]
   other = "Uncategorized"
 [about]
-  other = "about"
+  other = "acerca de"
 [learn_more]
   other = "aprende más"
 [repliestext]
