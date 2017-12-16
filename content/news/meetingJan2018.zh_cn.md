@@ -2,12 +2,12 @@
 author = "Tony"
 categories = ["Events"]
 date = "2017-12-14"
-description = "Jan 17 2018"
+description = ""
 featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "第一次公开会议"
+title = "第一次公开会议 Jan 17, 2018"
 type = "post"
 
 +++

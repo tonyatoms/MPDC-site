@@ -3,12 +3,12 @@
 author = "Tony"
 categories = ["Events"]
 date = "2017-12-15"
-description = "Dec 18 2017"
+description = ""
 featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "Holiday Meet & Greet at One City Tap"
+title = "Holiday Meet & Greet at One City Tap Dec 18, 2017"
 type = "post"
 
 +++
