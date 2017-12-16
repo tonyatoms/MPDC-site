@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/onecityjan2018/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/news/onecityjan2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/news/onecityjan2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/onecityjan2018/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/about/</loc>
     <lastmod>2017-10-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -103,6 +123,27 @@
   </url>
   
   <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/event/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/categories/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/categories/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/event/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/events/</loc>
     <lastmod>2017-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -125,7 +166,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/</loc>
-    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -146,7 +187,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/</loc>
-    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
