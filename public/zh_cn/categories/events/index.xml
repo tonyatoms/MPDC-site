@@ -6,10 +6,20 @@
     <description>Recent content in Events on McKinley Park 发展理事会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CMAP Kickoff Meeting! Feb 21, 2018</title>
+      <link>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingfeb2018/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingfeb2018/</guid>
+      <description>Join us for our next public meeting at The McKinley Park Fieldhouse Wednesday, February 21, 2018 7pm - 8:30pm.
+With community input, the MPDC along with CMAP are creating a neighborhood plan for McKinley Park. Join us at our next monthly meeting where we will discuss the process of making the plan with a representative from CMAP, the Chicago Metropolitan Agency for Planning. We&amp;rsquo;ll also hear updates from each of the committees doing the work of the MPDC.</description>
+    </item>
     
     <item>
       <title>第一次公开会议 Jan 17, 2018</title>
@@ -53,16 +63,6 @@ McKinley Park Guide to Zoning 在我们附近提供基本的分区条款和分�
 不久之后再寻找更多的细节，请帮忙传播一下！
 翻译机器，请原谅翻译。
 在我们附近提供基本的分区条款和分区的描述</description>
-    </item>
-    
-    <item>
-      <title>CMAP Kickoff Meeting! Feb 21, 2018</title>
-      <link>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingfeb2018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingfeb2018/</guid>
-      <description>Join us for our next public meeting at The McKinley Park Fieldhouse Wednesday, February 21, 2018 7pm - 8:30pm.
-With community input, the MPDC along with CMAP are creating a neighborhood plan for McKinley Park. Join us at our next monthly meeting where we will discuss the process of making the plan with a representative from CMAP, the Chicago Metropolitan Agency for Planning. We&amp;rsquo;ll also hear updates from each of the committees doing the work of the MPDC.</description>
     </item>
     
   </channel>

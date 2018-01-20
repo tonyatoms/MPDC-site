@@ -6,10 +6,20 @@
     <description>Recent content on Consejo de Desarrollo de McKinley Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mckinleyparkdevelopmentcouncil.org/es/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CMAP Reunión inicial! Feb 21, 2018</title>
+      <link>https://mckinleyparkdevelopmentcouncil.org/es/news/meetingfeb2018/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mckinleyparkdevelopmentcouncil.org/es/news/meetingfeb2018/</guid>
+      <description>Únete a nosotros para nuestra próxima reunión pública en The McKinley Park Fieldhouse Miércoles, febrero 21, 2018 7pm - 8:30pm.
+Con la participación de la comunidad, el MPDC junto con CMAP están creando un plan de vecindario para McKinley Park. Únete a nosotros en nuestra próxima reunión mensual donde discutirá el proceso de hacer el plan con un representante de CMAP, la Agencia Metropolitana de Chicago para la Planificación. También escucharemos actualizaciones de cada uno de los comités que hacen el trabajo del MPDC.</description>
+    </item>
     
     <item>
       <title>Primera reunión pública! Jan 17, 2018 </title>
@@ -60,16 +70,6 @@ Esperamos con ansias el 2018 lleno de actividad de McKinley Park: estamos abrien
       
       <guid>https://mckinleyparkdevelopmentcouncil.org/es/news/why-we-need-a-plan/</guid>
       <description>En este video explicamos por qué pensamos que McKinley Park necesita un plan. El video nos ayudó a ganar una subvención del Chicago Community Trust.   </description>
-    </item>
-    
-    <item>
-      <title>CMAP Reunión inicial! Feb 21, 2018</title>
-      <link>https://mckinleyparkdevelopmentcouncil.org/es/news/meetingfeb2018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mckinleyparkdevelopmentcouncil.org/es/news/meetingfeb2018/</guid>
-      <description>Únete a nosotros para nuestra próxima reunión pública en The McKinley Park Fieldhouse Miércoles, febrero 21, 2018 7pm - 8:30pm.
-Con la participación de la comunidad, el MPDC junto con CMAP están creando un plan de vecindario para McKinley Park. Únete a nosotros en nuestra próxima reunión mensual donde discutirá el proceso de hacer el plan con un representante de CMAP, la Agencia Metropolitana de Chicago para la Planificación. También escucharemos actualizaciones de cada uno de los comités que hacen el trabajo del MPDC.</description>
     </item>
     
   </channel>

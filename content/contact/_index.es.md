@@ -1,5 +1,5 @@
 +++
-title = "Contact"
+title = "Contacto"
 type = "contact"
 netlify = false
 emailservice = "formspree.io/example@email.com"
@@ -15,4 +15,10 @@ contactanswertime = 24
 <strong>
 <a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">Enviar correo electrónico</a></strong>
 <br/>
-No compartiremos su información de contacto con ningún otro grupo o entidad.
+No compartiremos su información de contacto con ningún otro grupo o entidad.<br/>
+<br/>
+Apartado Postal:
+<br/>
+PO Box 891231 
+<br/>
+Chicago IL 60608 
