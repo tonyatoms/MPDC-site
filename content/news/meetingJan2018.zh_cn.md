@@ -1,7 +1,7 @@
 +++
 author = "Tony"
 categories = ["Events"]
-date = "2017-12-14"
+date = "2017-12-16"
 description = ""
 featured = ""
 featuredalt = ""
@@ -12,7 +12,7 @@ type = "post"
 
 +++
 加入我们的第一次公开会议 </br>the National Latino Education Institute </br>Wednesday, January 17, 2018 
-</br>6pm - 9pm. 
+</br>7pm - 8:30pm. 
 
 了解我们一直在做什么，我们打算做什么，以及如何参与，使麦金利公园成为一个更好的邻里
 

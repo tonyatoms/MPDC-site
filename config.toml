@@ -73,7 +73,7 @@ pluralizeListTitles = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
     width     = ""
-    alt       = "Hugo Future Imperfect"
+    alt       = "McKinley Park Development Council"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.

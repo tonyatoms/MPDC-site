@@ -1,7 +1,7 @@
 +++
 author = "Tony"
 categories = ["Events"]
-date = "2017-12-14"
+date = "2017-12-16"
 description = ""
 featured = ""
 featuredalt = ""
@@ -12,7 +12,7 @@ type = "post"
 
 +++
 Únete a nosotros en nuestra primera reunión pública en </br>the National Latino Education Institute </br>Wednesday, January 17, 2018 
-</br>6pm - 9pm. 
+</br>7pm - 8:30pm. 
 
 Obtenga información sobre lo que hemos estado haciendo, lo que planeamos hacer y cómo puede participar para ayudar a que McKinley Park sea un vecindario aún mejor.
 
