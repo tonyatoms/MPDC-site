@@ -128,6 +128,25 @@
   </url>
   
   <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/news/meetingfeb2018/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/news/meetingfeb2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingfeb2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/news/meetingfeb2018/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/categories/</loc>
     <priority>0</priority>
     <xhtml:link
