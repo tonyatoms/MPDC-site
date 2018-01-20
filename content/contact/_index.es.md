@@ -12,4 +12,7 @@ contactanswertime = 24
 +++
 ¿Te gustaría unirte a un comité o tienes una pregunta?
 <br/>
-<a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">Enviar correo electrónico</a>
+<strong>
+<a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">Enviar correo electrónico</a></strong>
+<br/>
+No compartiremos su información de contacto con ningún otro grupo o entidad.
