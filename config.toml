@@ -2,7 +2,7 @@ baseurl = "https://mckinleyparkdevelopmentcouncil.org/"
 languageCode = "en-us"
 title = "McKinley Park Development Council"
 theme = "hugo-future-imperfect"
-preserveTaxonomyNames = true
+preserveTaxonomyNames = false
 paginate = 3
 disqusShortname = "shortname"
 googleAnalytics = ""
@@ -70,7 +70,7 @@ pluralizeListTitles = false
     src       = "/img/main/logo.jpg"
     # Sets Image to be a cirlce
     circle    = false
-    # Sets Image to be Future Imperfect's hexagon
+    # Sets Image to be Future Imperfects hexagon
     imperfect = false
     width     = ""
     alt       = "McKinley Park Development Council"
@@ -89,7 +89,6 @@ DefaultContentLanguage = "en"
         title = "McKinley Park Development Council"
         description = "Powered by Hugo"
         weight = 1
-        
             # Sets the menu items in the navigation bar
             # Identifier prepends a Font Awesome icon to the menu item
             # Each language has its own menu.
@@ -102,8 +101,9 @@ DefaultContentLanguage = "en"
             [[Languages.en.menu.main]]
                 name = "About"
                 url = "/about/"
-                identifier = "fa fa-id-card-o"
+                identifier = "fa fa-about"
                 weight = 2
+
            [[Languages.en.menu.main]]
                 name = "News"
                 url = "/news/"
@@ -111,15 +111,15 @@ DefaultContentLanguage = "en"
                 weight = 3
 
             [[Languages.en.menu.main]]
-                name = "Social Feed"
-                url = "/social/"
-                identifier = "fa fa-id-card-o"
+                name = "Events"
+                url = "/categories/events/"
+                identifier = "fa fa-sitemap"
                 weight = 4
 
             [[Languages.en.menu.main]]
-                name = "Categories"
-                url = "/categories/"
-                identifier = "fa fa-sitemap"
+                name = "Social Media"
+                url = "/social-media/"
+                identifier = "fa fa-id-card-o"
                 weight = 5
 
             [[Languages.en.menu.main]]
@@ -141,21 +141,27 @@ DefaultContentLanguage = "en"
                 weight = 1
 
             [[Languages.es.menu.main]]
+                name = "Acerca de"
+                url = "/about/"
+                identifier = "fa fa-about"
+                weight = 2
+
+            [[Languages.es.menu.main]]
                 name = "Noticias"
                 url = "/news/"
                 identifier = "fa fa-newspaper-o"
                 weight = 3
 
-     #       [[Languages.es.menu.main]]
-     #           name = "Events"
-     #           url = "/Events/"
-     #           identifier = "fa fa-id-card-o"
-     #           weight = 4
+            [[Languages.es.menu.main]]
+                name = "Eventos"
+                url = "/categories/events/"
+                identifier = "fa fa-sitemap"
+                weight = 4
 
             [[Languages.es.menu.main]]
-                name = "Categorías"
-                url = "/categories/"
-                identifier = "fa fa-sitemap"
+                name = "Medio social"
+                url = "/social-media/"
+                identifier = "fa fa-id-card-o"
                 weight = 5
 
             [[Languages.es.menu.main]]
@@ -176,6 +182,12 @@ DefaultContentLanguage = "en"
                 url = "/"
                 identifier = "fa fa-home"
                 weight = 1
+                
+          [[Languages.zh_cn.menu.main]]
+                name = "关于"
+                url = "/about/"
+                identifier = "fa fa-about"
+                weight = 2
 
             [[Languages.zh_cn.menu.main]]
                 name = "新闻"
@@ -183,16 +195,16 @@ DefaultContentLanguage = "en"
                 identifier = "fa fa-newspaper-o"
                 weight = 3
 
-      #      [[Languages.zh_cn.menu.main]]
-      #          name = "Events"
-      #          url = "/Events/"
-      #          identifier = "fa fa-id-card-o"
-      #          weight = 4
+            [[Languages.zh_cn.menu.main]]
+                name = "活动"
+                url = "/categories/events/"
+                identifier = "fa fa-sitemap"
+                weight = 4
 
             [[Languages.zh_cn.menu.main]]
-                name = "分类"
-                url = "/categories/"
-                identifier = "fa fa-sitemap"
+                name = "社交媒体"
+                url = "/social-media/"
+                identifier = "fa fa-id-card-o"
                 weight = 5
 
             [[Languages.zh_cn.menu.main]]

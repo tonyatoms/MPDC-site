@@ -3,22 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mckinleyparkdevelopmentcouncil.org/es/news/meetingfeb2018/</loc>
-    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/es/news/walkaudit/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mckinleyparkdevelopmentcouncil.org/news/meetingfeb2018/"
+                href="https://mckinleyparkdevelopmentcouncil.org/news/walkaudit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh_cn"
-                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingfeb2018/"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/walkaudit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://mckinleyparkdevelopmentcouncil.org/es/news/meetingfeb2018/"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/news/walkaudit/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/es/news/meetingmar2018/</loc>
+    <lastmod>2018-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/news/meetingmar2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingmar2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/news/meetingmar2018/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/es/news/alma/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/news/alma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/alma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/news/alma/"
                 />
   </url>
   
@@ -79,6 +119,26 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://mckinleyparkdevelopmentcouncil.org/es/news/zoning_wkshop_vid/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/es/social-media/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/social-media/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/social-media/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/social-media/"
                 />
   </url>
   
@@ -164,7 +224,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/es/</loc>
-    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -204,7 +264,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/es/categories/events/</loc>
-    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -225,7 +285,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/es/news/</loc>
-    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -241,6 +301,27 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://mckinleyparkdevelopmentcouncil.org/es/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/es/categories/news/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/categories/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/categories/news/"
                 />
   </url>
   
