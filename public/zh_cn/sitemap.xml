@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingmay2018/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/news/meetingmay2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/news/meetingmay2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingmay2018/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingapril2018/</loc>
+    <lastmod>2018-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/news/meetingapril2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/news/meetingapril2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/meetingapril2018/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/walkaudit/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -224,7 +264,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/categories/events/</loc>
-    <lastmod>2018-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -245,7 +285,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -266,7 +306,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

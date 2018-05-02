@@ -11,7 +11,7 @@ title = "Great Rivers Project Walk Audit"
 type = "post"
 
 +++
-Calling all McKinley Parkers! Did you know the Chicago River forms the western border of McKinley Park? Help us improve - and improve access to! - this neighborhood treasure (well...it will be!).
+Calling all McKinley Parkers! Did you know the Chicago River forms the eastern border of McKinley Park? Help us improve - and improve access to! - this neighborhood treasure (well...it will be!).
 <br/>
 Join the McKinley Park Development Council on<h2> Saturday April 7 </h2>
 <h2>from 9-11 am</h2>
