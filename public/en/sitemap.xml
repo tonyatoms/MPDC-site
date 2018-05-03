@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/news/parkmural/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/news/parkmural/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/parkmural/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/news/parkmural/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/news/meetingmay2018/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
