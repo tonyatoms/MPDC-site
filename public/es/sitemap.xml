@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mckinleyparkdevelopmentcouncil.org/es/news/homelandlordseminar/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mckinleyparkdevelopmentcouncil.org/news/homelandlordseminar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh_cn"
+                href="https://mckinleyparkdevelopmentcouncil.org/zh_cn/news/homelandlordseminar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mckinleyparkdevelopmentcouncil.org/es/news/homelandlordseminar/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/es/news/parkmural/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -284,7 +304,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/es/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -324,7 +344,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/es/categories/events/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -345,7 +365,7 @@
   
   <url>
     <loc>https://mckinleyparkdevelopmentcouncil.org/es/news/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

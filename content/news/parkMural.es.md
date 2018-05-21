@@ -22,10 +22,6 @@ La residente y artista de McKinley Park Victoria Rodríguez seleccionará y conv
 </p>
 <p> ¡Gracias especiales a <a href="http://www.12thwardchicago.com"> Alderman George Cárdenas y su personal </a> por ayudar a convertir este sueño en una realidad!
 </p>
-McKinley Park Fieldhouse - Brown Room <br/>
-2210 W Pershing Road, Chicago, IL<br/>  
-
-¡Gracias especiales a nuestro anfitrión, <a href="https://www.chicagoparkdistrict.com"> The Chicago Park District</a>
 <a href="https://drive.google.com/file/d/0B0znleYpwmY2UW4xaVhFSHhzU1FEZjF5LVB2dV85aTN5MDRR/view">
 {{< figure src="/img/main/mural/muralColoringSheet.png" title="" >}}
 </a>
